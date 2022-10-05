@@ -6,9 +6,8 @@ export const TecnologiesSection = () => {
         <>
             <section id='skills'>
                 <div className='skills'>
-                    <div>
-                        <h1 className='skills-tittle'>Mis Habilidades</h1>
-                    </div>
+                    <h1 className='skills-tittle'>Mis Habilidades</h1>
+
                     <div className='skills-icons'>
                         <div>
                             <FaHtml5 className='html5' />

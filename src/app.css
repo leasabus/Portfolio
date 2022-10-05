@@ -80,16 +80,22 @@ h1 {
   display: flex;
   padding: 15px;
   margin: 5px;
+
 }
 
+
+
 .nav li {
-  margin: 5px;
+
+  margin: 0px 15px;
 }
 
 .nav li a:hover {
-  cursor: pointer;
   color: #7f5af0;
+
 }
+
+
 
 
 
@@ -110,7 +116,7 @@ header {
 
 header .header-container {
   width: auto;
-  height: 600px;
+  height: 650px;
 }
 
 
@@ -171,6 +177,7 @@ header img {
   justify-content: center;
   align-items: center;
   padding: 25px;
+  margin: 15px;
 }
 
 .proyects-container {
@@ -228,14 +235,14 @@ header img {
   height: 200px;
   border-radius: 15px;
   margin-top: 10px;
+  border: 1px solid #9f9fa3;
+
 }
 
 .card p {
   color: #9f9fa3;
   margin-top: 10px;
 }
-
-
 
 
 
@@ -550,26 +557,34 @@ header img {
   .proyects-tittle {
     font-size: 3em;
 
+
   }
 
   /* skills section */
   .skills {
     width: auto;
-    height: 800px;
+    height: 750px;
   }
 
-  .skills-tittle {
-    margin-bottom: 200px;
-    font-size: 3em;
-  }
+
 
   .skills-icons {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin-bottom: 50px;
+    margin-bottom: 150px;
 
+
+  }
+
+  .skills-tittle {
+    color: #fffffe;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 250px;
+    font-size: 3em;
   }
 
 

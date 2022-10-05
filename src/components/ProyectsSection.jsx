@@ -7,6 +7,7 @@ export const ProyectsSection = () => {
                 <h1 className='proyects-tittle'>Mis Proyectos</h1>
                 <div className='proyects-container'>
 
+
                     <div className='card'>
                         <img src="./assets/scaloneta.png" alt="" />
                         <h4>Single Page Aplication</h4>
@@ -46,7 +47,7 @@ export const ProyectsSection = () => {
                             <br />
                             Herramientas:Boostrap,React
                         </p>
-                        <button >Ver Repositorio</button>
+                        <a href="https://github.com/leasabus/Portfolio" target="_blank"> <button >Ver Repositorio</button> </a>
                         <button>Ver proyecto</button>
                     </div>
 
