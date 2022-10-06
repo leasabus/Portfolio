@@ -1,2 +1,2 @@
 # Portfolio
-Mi web personal. Aquí estan los proyectos que voy realizando. Lo desarrolle con ReactJs, css3, vite
+Mi web personal. Aquí estan los proyectos que voy realizando. Lo desarrollé con ReactJs, css3, vite
