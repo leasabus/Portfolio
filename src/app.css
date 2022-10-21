@@ -78,16 +78,11 @@ h1 {
 
 .nav {
   display: flex;
-  padding: 15px;
-  margin: 5px;
 
 }
 
-
-
 .nav li {
-
-  margin: 0px 15px;
+  margin: 5px;
 }
 
 .nav li a:hover {

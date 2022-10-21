@@ -27,28 +27,28 @@ export const ProyectsSection = () => {
                             Herramientas: Bootstrap,React,React-Router,Animations
                         </p>
                         <a href="https://github.com/leasabus/Shoes-App-SPA" target="_blank"> <button>Ver Repositorio</button> </a>
-                        <a href="https://shoes-app-spa.netlify.app/shoeslist" target="_blank"><button>Ver proyecto</button> </a>
+                        <a href="https://shoesappspa.netlify.app/" target="_blank"><button>Ver proyecto</button> </a>
                     </div>
                     <div className='card'>
                         <img src="./assets/giftexpert.png" alt="" />
                         <h4>Buscador de Gifs</h4>
                         <p>Creado con una solicitud a la API de giphy
                             <br />
-                            Herramientas:Fetch-API,React,CSS
+                            Herramientas: Fetch-API,React,CSS
                         </p>
                         <a href="https://github.com/leasabus/GifExpertApp-React" target="_blank"> <button>Ver Repositorio</button> </a>
                         <a href="https://giftexpertapp-leasabus.netlify.app/" target="_blank"><button>Ver proyecto</button></a>
                     </div>
 
                     <div className='card'>
-                        <img src="./assets/porfolio.jpg" alt="" />
-                        <h4>Portfolio web</h4>
-                        <p>Mi sitio web creado con React.
+                        <img src="./assets/weatherapp.jpg" />
+                        <h4>WeatherApp</h4>
+                        <p>Widget del clima utilizando la API de openweather
                             <br />
-                            Herramientas:Boostrap,React
+                            Herramientas: TailwindCss,React, Fetch
                         </p>
-                        <a href="https://github.com/leasabus/Portfolio" target="_blank"> <button >Ver Repositorio</button> </a>
-                        <button>Ver proyecto</button>
+                        <a href="https://github.com/leasabus/Weather-app-react" target="_blank"> <button >Ver Repositorio</button></a>
+                        <a href="https://weather-app-leasabus.netlify.app/" target="_blank"> <button>Ver proyecto</button></a>
                     </div>
 
 
