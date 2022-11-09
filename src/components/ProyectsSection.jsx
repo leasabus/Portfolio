@@ -51,6 +51,17 @@ export const ProyectsSection = () => {
                         <a href="https://weather-app-leasabus.netlify.app/" target="_blank"> <button>Ver proyecto</button></a>
                     </div>
 
+                    <div className='card'>
+                        <img src="./assets/e-shop-app.jpg" />
+                        <h4>E-shop</h4>
+                        <p>E-commerce utilizando la API de fakestore
+                            <br />
+                            Herramientas: TailwindCss,React, Fetch, Redux
+                        </p>
+                        <a href="https://github.com/leasabus/e-commerce-app" target="_blank"> <button >Ver Repositorio</button></a>
+                        <a href="https://e-shop-app.netlify.app/" target="_blank"> <button>Ver proyecto</button></a>
+                    </div>
+
 
 
 
