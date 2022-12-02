@@ -202,6 +202,16 @@ header img {
   cursor: pointer;
 }
 
+.card-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
 
 
 .card h4 {
@@ -212,7 +222,7 @@ header img {
   background: #7f5af0;
   color: #fffffe;
   padding: 5px;
-  margin-top: 10px;
+  margin-top: 15px;
   margin-right: 5px;
   border-style: none;
   border-radius: 10px;
